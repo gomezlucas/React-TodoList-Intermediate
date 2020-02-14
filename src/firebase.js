@@ -4,7 +4,7 @@ import 'firebase/firestore'
  
 
 var firebaseConfig = {
-    apiKey: "AIzaSyAhMf7DHm8Gc3CbV8zgzHYqzMHRVfNN2t0",
+    apiKey: "apikey",
     authDomain: "evernote-tuto.firebaseapp.com",
     databaseURL: "https://evernote-tuto.firebaseio.com",
     projectId: "evernote-tuto",
